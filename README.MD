@@ -1,8 +1,3 @@
----
-
-### 2. Para o repositório de HTML (`HTML-Project`)
-
-```markdown
 # 🌐 Projetos Web - HTML5
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +21,7 @@ Repositório dedicado ao meu aprendizado de **Desenvolvimento Web** (Frontend). 
 Como os arquivos são estáticos, você pode visualizá-los facilmente:
 1. Faça o download ou clone o repositório.
 2. Localize o arquivo `.html` que deseja ver.
-3. Clique com o botão direito e selecione **"Abrir com..."** e escolha seu navegador preferido (Chrome, Edge, Firefox).
+3. Clique com o botão direito e selecione **"Abrir com..."** e escolha seu navegador preferido.
 
 ---
 *Em constante evolução na trilha de Análise e Desenvolvimento de Sistemas.* 🚀
